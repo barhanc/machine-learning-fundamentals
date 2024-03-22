@@ -2,3 +2,6 @@ venv/
 .vscode/
 *.joblib
 *.html
+
+images/
+abo-images-small/
