@@ -2,6 +2,7 @@ venv/
 .vscode/
 *.joblib
 *.html
+activate.sh
 
 images/
 abo-images-small/
