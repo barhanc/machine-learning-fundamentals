@@ -6,3 +6,5 @@ activate.sh
 
 images/
 abo-images-small/
+
+.ipynb_checkpoints
