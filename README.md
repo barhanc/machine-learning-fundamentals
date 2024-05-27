@@ -4,4 +4,4 @@
 4. Metody probabilistyczne
 5. Klasyfikacja niezbalansowana i anomaly detection
 6. Selekcja cech i redukcja wymiarowości
-7. Prognozowania szeregów czasowych
+7. Prognozowanie szeregów czasowych
