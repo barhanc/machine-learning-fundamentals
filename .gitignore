@@ -8,3 +8,6 @@ images/
 abo-images-small/
 
 .ipynb_checkpoints
+
+lab8/artists.csv
+lab8/tracks.csv
