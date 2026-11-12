@@ -8,8 +8,6 @@ An in-depth, hands-on laboratory curriculum exploring classical and modern machi
 
 Managed with [**uv**](https://github.com/astral-sh/uv), the blazingly fast Python package and environment manager.
 
----
-
 ## Overview
 
 <details open>
@@ -101,8 +99,6 @@ Managed with [**uv**](https://github.com/astral-sh/uv), the blazingly fast Pytho
 - **Datasets**: [Polish Inflation CPI](./lab7/polish_inflation.csv), [Wikipedia Web Traffic](./lab7/wikipedia_traffic.parquet), [Italian Pasta Sales](./lab7/italian_pasta.csv).
 - **Notebook**: [`lab7/notebook.ipynb`](./lab7/notebook.ipynb)
 </details>
-
----
 
 ## Getting Started
 
