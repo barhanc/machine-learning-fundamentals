@@ -2,12 +2,8 @@
 
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.2+-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![sktime](https://img.shields.io/badge/sktime-0.29+-1B365D.svg?style=flat)](https://www.sktime.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 An in-depth, hands-on laboratory curriculum exploring classical and modern machine learning foundations. Each laboratory is implemented in an end-to-end Jupyter Notebook with comprehensive exploratory data analysis, feature engineering, mathematical intuition, model evaluation, and practical real-world problem solving.
 
 Managed with [**uv**](https://github.com/astral-sh/uv), the blazingly fast Python package and environment manager.
