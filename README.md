@@ -1,4 +1,4 @@
-# Machine Learning Fundamentals 🧠📊
+# Machine Learning Fundamentals
 
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -14,7 +14,7 @@ Managed with [**uv**](https://github.com/astral-sh/uv), the blazingly fast Pytho
 
 ---
 
-## 📑 Overview
+## Overview
 
 | Lab | Topic | Core Techniques & Algorithms | Key Datasets |
 | :---: | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ Managed with [**uv**](https://github.com/astral-sh/uv), the blazingly fast Pytho
 
 ---
 
-## 🔬 Detailed Lab Breakdown
+## Detailed Lab Breakdown
 
 <details open>
 <summary><b>Lab 1: Linear Models & Robust Regression</b></summary>
@@ -122,7 +122,7 @@ Managed with [**uv**](https://github.com/astral-sh/uv), the blazingly fast Pytho
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Ensure you have [uv](https://docs.astral.sh/uv/) installed.
 
