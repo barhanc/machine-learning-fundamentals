@@ -1,0 +1,43 @@
+[project]
+name = "machine-learning-fundamentals"
+version = "0.1.0"
+description = "Machine Learning Fundamentals laboratory coursework and implementations"
+authors = [
+    { name = "Bartosz Hanc", email = "bartosz.hanc02@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "feature-engine>=1.7",
+    "holidays>=0.48",
+    "imbalanced-learn>=0.12",
+    "jupyter>=1.0.0",
+    "matplotlib>=3.8",
+    "numpy>=1.26",
+    "pandas>=2.0,<3",
+    "pmdarima>=2.0.4",
+    "pyarrow>=15.0",
+    "pynndescent>=0.5",
+    "pyod>=1.1",
+    "scikit-learn>=1.4",
+    "scikit-learn-extra>=0.3.0",
+    "scipy>=1.12",
+    "seaborn>=0.13",
+    "sentence-transformers>=2.5",
+    "shap>=0.45",
+    "sktime>=0.29",
+    "statsmodels>=0.14",
+    "torch>=2.2",
+    "xgboost>=2.0",
+]
+
+[tool.uv]
+package = false
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
