@@ -4,6 +4,7 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 An in-depth, hands-on laboratory curriculum exploring classical and modern machine learning foundations. Each laboratory is implemented in an end-to-end Jupyter Notebook with comprehensive exploratory data analysis, feature engineering, mathematical intuition, model evaluation, and practical real-world problem solving.
 
 Managed with [**uv**](https://github.com/astral-sh/uv), the blazingly fast Python package and environment manager.
