@@ -16,20 +16,6 @@ Managed with [**uv**](https://github.com/astral-sh/uv), the blazingly fast Pytho
 
 ## Overview
 
-| Lab | Topic | Core Techniques & Algorithms | Key Datasets |
-| :---: | :--- | :--- | :--- |
-| [**01**](./lab1/notebook.ipynb) | **Linear Models & Robust Regression** | OLS, Ridge, LASSO, ElasticNet, Huber, RANSAC, Target & Power Transforms, Pipeline Design | Ames Housing |
-| [**02**](./lab2/notebook.ipynb) | **Neighborhood Methods & ANN** | kNN (Classification/Regression), Metric Learning, Approximate Nearest Neighbors (PyNNDescent), Embeddings | Codon Usage, MoleculeNet HIV, Semantic Images |
-| [**03**](./lab3/notebook.ipynb) | **Kernel Methods & SVMs** | Linear & Kernel SVM (RBF, Poly), Large-scale Kernel Approximations (Nyström, RBF Sampler), C & $\gamma$ Tuning | COD-RNA, Customer Churn |
-| [**04**](./lab4/notebook.ipynb) | **Probabilistic Modeling & Calibration** | Naive Bayes (Gaussian, Multinomial, Bernoulli), Probability Calibration (Platt Scaling, Isotonic Regression), Brier Score | Give Me Some Credit, Enron Spam, GSE2034 Microarray |
-| [**05**](./lab5/notebook.ipynb) | **Imbalanced Learning & Anomaly Detection** | Cost-sensitive Learning, Threshold Tuning (PR curves), SMOTE, ADASYN, Isolation Forest, Local Outlier Factor, PyOD | Polish Bankruptcy, Credit Card Fraud |
-| [**06**](./lab6/notebook.ipynb) | **Feature Selection & Dimensionality Reduction** | Filter Methods, Wrapper (RFE/RFECV), Embedded (L1, Tree-based), PCA, SVD, t-SNE, UMAP | Ames Housing |
-| [**07**](./lab7/notebook.ipynb) | **Time Series Analysis & Forecasting** | Stationarity (ADF, KPSS), ACF/PACF, ARIMA / SARIMA / AutoARIMA, Windowing, Lag Features, Direct/Recursive Forecasts | Polish Inflation (CPI), Wikipedia Traffic, Italian Pasta Sales |
-
----
-
-## Detailed Lab Breakdown
-
 <details open>
 <summary><b>Lab 1: Linear Models & Robust Regression</b></summary>
 
